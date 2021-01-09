@@ -27,7 +27,7 @@ public class BasicServletFilter implements Filter {
 	 */
 	public void destroy() {
 		// TODO Auto-generated method stub
-		System.out.println("destroy ");
+		System.out.println("destroy	 ");
 	}
 
 	/**
